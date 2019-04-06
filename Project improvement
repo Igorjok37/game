@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=" utf-8">
+<title>Project improvement</title>
+<style> h1{ color: blue }  </style>
+<h1>Развитие моего проекта</h1>
+<h2>"Дневник разработки" </h2>
+<h3>"План действий" </h3>
+<h3>"Лабораторная 1. HTML и поиск"</h3>
+<body>
+    <a href="https://github.com/dfisun/webdev-s2019/blob/master/labs/lab1_html.md">"Задания на Github"</a>
+    <br> <a href="https://htmlreference.io/">"Список команд с их обозначением"</a>
+    <br> <a href="https://www.google.ru/">"Google"</a>
+</body>
